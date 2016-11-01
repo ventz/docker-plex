@@ -1,6 +1,11 @@
 # Please look at my blog article for more information:
 
-https://blog.vpetkov.net/2015/12/17/plex-server-on-a-vps-docker-setup-without-port-forwarding/
+Up until now, there was NO way to deploy a plex server in docker fully
+automatically. You always had to manually ssh in/port forward,
+register it, etc. It was a huge pain. I've figured out a way to do
+this automatically for any number of Plex accounts.
+
+For full details, check out: https://blog.vpetkov.net/2015/12/17/plex-server-on-a-vps-docker-setup-without-port-forwarding/
 
 # Running a dedicated Plex server in Docker:
 
